@@ -45,7 +45,7 @@
 		  "profile": {
 		    "name": "typicode"
 		  }
-		}
-	},
- "codeHttpStatus" : 200
+		}, 
+ 	"codeHttpStatus" : 200
+	}
 }
